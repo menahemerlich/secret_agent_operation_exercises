@@ -16,7 +16,6 @@ class Agent:
         if 1 < self._clearance_level < 10:
             self._clearance_level = self._clearance_level
 
-
     @staticmethod
     def get_total_agents():
         print(Agent.total_agents)
