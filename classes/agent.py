@@ -19,8 +19,3 @@ class Agent:
     @staticmethod
     def get_total_agents():
         print(Agent.total_agents)
-
-
-
-
-
